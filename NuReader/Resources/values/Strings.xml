@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Hello">Toon laatste nieuws</string>
+	<string name="ApplicationName">NuReader</string>
+</resources>
